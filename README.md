@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kuldeep-singhal-b81808234" target="blank"><img align="center" src="https://static.cdnlogo.com/logos/l/37/linkedin.svg" alt="kuldeep-singhal-b81808234" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/zflair-zpz" target="blank"><img align="center" src="https://leetcode.com/static/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="zflair-zpz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kuldeep-singhal-b81808234" target="blank"><img align="center" src="https://static.cdnlogo.com/logos/l/37/linkedin.svg" alt="kuldeep-singhal-b81808234" height="100" width="100" /></a>
+<a href="https://www.leetcode.com/zflair-zpz" target="blank"><img align="center" src="https://leetcode.com/static/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="zflair-zpz" height="100" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
